@@ -1,5 +1,6 @@
-# 3 items about me
+# 4 items about me
 
 - I live in spb
 - I have a cat
 - I have a dog
+- I am a student
