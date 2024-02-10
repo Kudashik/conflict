@@ -4,3 +4,4 @@
 - I have a cat
 - I have a dog
 - I want to sleep
+- I am a student
